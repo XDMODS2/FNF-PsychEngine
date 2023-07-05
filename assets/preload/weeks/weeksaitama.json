@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"ONE-PUNCH",
+			"saitama",
+			[
+				255,
+				211,
+				191
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "One punch man vs Boyfriend",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		255,
+		211,
+		191
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
