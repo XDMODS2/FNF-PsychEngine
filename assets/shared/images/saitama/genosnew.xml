@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="genosnew.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="genos bump0000" x="0" y="0" width="383" height="478" frameX="-6" frameY="-6" frameWidth="390" frameHeight="484"/>
+	<SubTexture name="genos bump0001" x="0" y="0" width="383" height="478" frameX="-6" frameY="-6" frameWidth="390" frameHeight="484"/>
+	<SubTexture name="genos bump0002" x="393" y="0" width="384" height="477" frameX="-6" frameY="-7" frameWidth="390" frameHeight="484"/>
+	<SubTexture name="genos bump0003" x="393" y="0" width="384" height="477" frameX="-6" frameY="-7" frameWidth="390" frameHeight="484"/>
+	<SubTexture name="genos bump0004" x="787" y="0" width="381" height="477" frameX="-2" frameY="-2" frameWidth="390" frameHeight="484"/>
+	<SubTexture name="genos bump0005" x="787" y="0" width="381" height="477" frameX="-2" frameY="-2" frameWidth="390" frameHeight="484"/>
+	<SubTexture name="genos bump0006" x="1178" y="0" width="381" height="477" frameX="0" frameY="0" frameWidth="390" frameHeight="484"/>
+	<SubTexture name="genos bump0007" x="1178" y="0" width="381" height="477" frameX="0" frameY="0" frameWidth="390" frameHeight="484"/>
+	<SubTexture name="genos bump0008" x="1178" y="0" width="381" height="477" frameX="0" frameY="0" frameWidth="390" frameHeight="484"/>
+	<SubTexture name="genos bump0009" x="1178" y="0" width="381" height="477" frameX="0" frameY="0" frameWidth="390" frameHeight="484"/>
+	<SubTexture name="genos bump0010" x="1178" y="0" width="381" height="477" frameX="0" frameY="0" frameWidth="390" frameHeight="484"/>
+	<SubTexture name="genos bump0011" x="1178" y="0" width="381" height="477" frameX="0" frameY="0" frameWidth="390" frameHeight="484"/>
+	<SubTexture name="genos bump0012" x="1178" y="0" width="381" height="477" frameX="0" frameY="0" frameWidth="390" frameHeight="484"/>
+	<SubTexture name="genos bump0013" x="1178" y="0" width="381" height="477" frameX="0" frameY="0" frameWidth="390" frameHeight="484"/>
+	<SubTexture name="genos look0000" x="1569" y="0" width="375" height="469" frameX="-25" frameY="-18" frameWidth="400" frameHeight="487"/>
+	<SubTexture name="genos look0001" x="1569" y="0" width="375" height="469" frameX="-25" frameY="-18" frameWidth="400" frameHeight="487"/>
+	<SubTexture name="genos look0002" x="0" y="488" width="377" height="483" frameX="-7" frameY="0" frameWidth="400" frameHeight="487"/>
+	<SubTexture name="genos look0003" x="0" y="488" width="377" height="483" frameX="-7" frameY="0" frameWidth="400" frameHeight="487"/>
+	<SubTexture name="genos look0004" x="387" y="488" width="387" height="476" frameX="0" frameY="-6" frameWidth="400" frameHeight="487"/>
+	<SubTexture name="genos look0005" x="387" y="488" width="387" height="476" frameX="0" frameY="-6" frameWidth="400" frameHeight="487"/>
+	<SubTexture name="genos look0006" x="784" y="488" width="387" height="475" frameX="-1" frameY="-7" frameWidth="400" frameHeight="487"/>
+	<SubTexture name="genos look0007" x="784" y="488" width="387" height="475" frameX="-1" frameY="-7" frameWidth="400" frameHeight="487"/>
+	<SubTexture name="genos look0008" x="1181" y="488" width="387" height="475" frameX="-2" frameY="-7" frameWidth="400" frameHeight="487"/>
+	<SubTexture name="genos look0009" x="1181" y="488" width="387" height="475" frameX="-2" frameY="-7" frameWidth="400" frameHeight="487"/>
+	<SubTexture name="genos look0010" x="1181" y="488" width="387" height="475" frameX="-2" frameY="-7" frameWidth="400" frameHeight="487"/>
+	<SubTexture name="genos look0011" x="1181" y="488" width="387" height="475" frameX="-2" frameY="-7" frameWidth="400" frameHeight="487"/>
+	<SubTexture name="genos look0012" x="1181" y="488" width="387" height="475" frameX="-2" frameY="-7" frameWidth="400" frameHeight="487"/>
+	<SubTexture name="genos look0013" x="1181" y="488" width="387" height="475" frameX="-2" frameY="-7" frameWidth="400" frameHeight="487"/>
+</TextureAtlas>
