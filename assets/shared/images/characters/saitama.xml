@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="saitama.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="a0000" x="0" y="0" width="307" height="690"/>
+	<SubTexture name="a0001" x="0" y="0" width="307" height="690"/>
+	<SubTexture name="a0002" x="0" y="0" width="307" height="690"/>
+	<SubTexture name="a0003" x="307" y="0" width="307" height="690"/>
+	<SubTexture name="a0004" x="614" y="0" width="307" height="690"/>
+	<SubTexture name="a0005" x="614" y="0" width="307" height="690"/>
+	<SubTexture name="a0006" x="614" y="0" width="307" height="690"/>
+	<SubTexture name="a0007" x="614" y="0" width="307" height="690"/>
+	<SubTexture name="a0008" x="921" y="0" width="307" height="690"/>
+	<SubTexture name="a0009" x="1228" y="0" width="307" height="690"/>
+	<SubTexture name="a0010" x="1228" y="0" width="307" height="690"/>
+	<SubTexture name="a0011" x="1535" y="0" width="307" height="690"/>
+	<SubTexture name="a0012" x="1842" y="0" width="307" height="690"/>
+	<SubTexture name="a0013" x="2149" y="0" width="307" height="690"/>
+	<SubTexture name="a0014" x="2456" y="0" width="307" height="690"/>
+	<SubTexture name="a0015" x="2763" y="0" width="307" height="690"/>
+	<SubTexture name="a0016" x="3070" y="0" width="307" height="690"/>
+	<SubTexture name="a0017" x="3070" y="0" width="307" height="690"/>
+	<SubTexture name="a0018" x="3070" y="0" width="307" height="690"/>
+	<SubTexture name="a0019" x="3070" y="0" width="307" height="690"/>
+	<SubTexture name="cough0000" x="3377" y="0" width="326" height="686"/>
+	<SubTexture name="cough0001" x="3377" y="0" width="326" height="686"/>
+	<SubTexture name="cough0002" x="3703" y="0" width="326" height="686"/>
+	<SubTexture name="cough0003" x="3703" y="0" width="326" height="686"/>
+	<SubTexture name="cough0004" x="0" y="690" width="326" height="686"/>
+	<SubTexture name="cough0005" x="0" y="690" width="326" height="686"/>
+	<SubTexture name="cough0006" x="326" y="690" width="326" height="686"/>
+	<SubTexture name="cough0007" x="326" y="690" width="326" height="686"/>
+	<SubTexture name="cough0008" x="652" y="690" width="326" height="686"/>
+	<SubTexture name="cough0009" x="652" y="690" width="326" height="686"/>
+	<SubTexture name="cough0010" x="978" y="690" width="326" height="686"/>
+	<SubTexture name="cough0011" x="978" y="690" width="326" height="686"/>
+	<SubTexture name="cough0012" x="1304" y="690" width="326" height="686"/>
+	<SubTexture name="cough0013" x="1304" y="690" width="326" height="686"/>
+	<SubTexture name="cough0014" x="1630" y="690" width="326" height="686"/>
+	<SubTexture name="cough0015" x="1630" y="690" width="326" height="686"/>
+	<SubTexture name="cough0016" x="1956" y="690" width="326" height="686"/>
+	<SubTexture name="cough0017" x="1956" y="690" width="326" height="686"/>
+	<SubTexture name="cough0018" x="1956" y="690" width="326" height="686"/>
+	<SubTexture name="cough0019" x="1956" y="690" width="326" height="686"/>
+	<SubTexture name="idle0000" x="2282" y="690" width="319" height="682"/>
+	<SubTexture name="idle0001" x="2282" y="690" width="319" height="682"/>
+	<SubTexture name="idle0002" x="2601" y="690" width="319" height="682"/>
+	<SubTexture name="idle0003" x="2601" y="690" width="319" height="682"/>
+	<SubTexture name="idle0004" x="2920" y="690" width="319" height="682"/>
+	<SubTexture name="idle0005" x="2920" y="690" width="319" height="682"/>
+	<SubTexture name="idle0006" x="3239" y="690" width="319" height="682"/>
+	<SubTexture name="idle0007" x="3239" y="690" width="319" height="682"/>
+	<SubTexture name="idle0008" x="3558" y="690" width="319" height="682"/>
+	<SubTexture name="idle0009" x="3558" y="690" width="319" height="682"/>
+	<SubTexture name="idle0010" x="0" y="1376" width="319" height="682"/>
+	<SubTexture name="idle0011" x="319" y="1376" width="319" height="682"/>
+	<SubTexture name="idle0012" x="638" y="1376" width="319" height="682"/>
+	<SubTexture name="idle0013" x="638" y="1376" width="319" height="682"/>
+</TextureAtlas>
